@@ -14,7 +14,7 @@ public static void main(String []args) {
     		  }
     	  }
     	  
-    	  if(age>=40&aaa&age<=50) {
+    	  if(age>=40&&age<=50) {
     		  System.out.println("Happy mid-life");
     	  }
        }
